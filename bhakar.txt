@@ -1,0 +1,30 @@
+Good morning, and thank you for giving me this opportunity.
+My name is Bhaskar Darla.
+I am a DevOps Engineer with around 4 years of IT experience.
+I have hands-on experience in DevOps practices and cloud technologies.
+I have worked extensively on AWS Cloud.
+My primary operating system is Linux.
+I have experience with Git for version control.
+I use GitHub to manage source code repositories.
+I have built CI/CD pipelines using Jenkins.
+I have automated application deployments through Jenkins pipelines.
+I have experience with Docker for containerization.
+I have deployed applications on Kubernetes (EKS).
+I use Terraform for Infrastructure as Code.
+I have worked with Ansible for configuration management.
+I have experience building Java applications using Maven.
+I have worked with AWS services like EC2, S3, IAM, VPC, EKS, ALB, Auto Scaling, Route 53, and CloudWatch.
+I have configured IAM users, roles, and policies.
+I have monitored applications using CloudWatch.
+I have experience troubleshooting deployment issues.
+I have collaborated with development, QA, and operations teams.
+I have worked in Agile and Scrum environments.
+I follow DevOps best practices for automation and continuous delivery.
+I always focus on improving deployment speed and reliability.
+I enjoy learning new DevOps tools and technologies.
+Recently, I have been working on AWS services like Lambda, API Gateway, Step Functions, EventBridge, and Aurora.
+I continuously improve my cloud and automation skills.
+I am a quick learner and enjoy solving technical problems.
+I am looking for a role where I can contribute and grow as a DevOps Engineer.
+I believe my technical skills and learning attitude will add value to your organization.
+Thank you for your time. I would be happy to answer your questions.
